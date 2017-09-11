@@ -1,4 +1,4 @@
-require "pubsub/redis/version"
+require 'pubsub/redis/version'
 
 module Pubsub
   module Redis
